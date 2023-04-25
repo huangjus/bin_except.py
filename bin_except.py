@@ -1,4 +1,4 @@
-Author: Justin Huang
+# Author: Justin Huang
 # GitHub username: huangjus
 # Date: 4/25/23
 # Description: The code defines a custom exception, TargetNotFound, and a modified binary search function, `bin_except`.
